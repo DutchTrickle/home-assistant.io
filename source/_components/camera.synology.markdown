@@ -42,7 +42,7 @@ A full sample configuration for the `synology` platform is shown below:
 # Example configuration.yaml entry
 camera:
   - platform: synology
-    url: https://192.168.1.120:5001
+    url: http://192.168.1.120:5001
     username: YOUR_USERNAME
     password: YOUR_PASSWORD
     timeout: 15
